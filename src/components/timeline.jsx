@@ -14,16 +14,6 @@ export function Timeline({ lanes }) {
       >
         <TransformComponent>
           <div>
-            {/* <div className="flex gap-4 mt-6 mb-2 px-2 w-full">
-            {months.map((month) => (
-              <div
-                key={month}
-                className="text-sm font-semibold text-zinc-700 px-4 py-2 flex-1 border-l"
-              >
-                {month}
-              </div>
-            ))}
-          </div> */}
             {lanes.map((lane) => (
               <React.Fragment key={lane[0].id}>
                 <div className="flex items-center gap-5 p-6 w-max">
