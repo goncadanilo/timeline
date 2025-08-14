@@ -1,4 +1,4 @@
-const timelineItems = [
+export const timelineItems = [
   {
     id: 1,
     start: "2021-01-14",
@@ -96,5 +96,3 @@ const timelineItems = [
     name: "Launch day",
   },
 ];
-
-export default timelineItems;
