@@ -4,7 +4,7 @@
   "description": "Airtable Timeline",
   "scripts": {
     "start": "parcel src/index.html --open",
-    "test:e2e": "npx playwright test"
+    "test": "npx playwright test"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.12",
