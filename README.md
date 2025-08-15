@@ -32,3 +32,19 @@ To run tests:
 ```bash
 npm run test
 ```
+
+### What I liked about your implementation
+
+- I liked the simplicity of implementing the zoom feature.
+- I liked having created a test implementation, even if it only validated a simple case.
+
+### What I would change if I were to do it again
+
+- I would use a library to render each item according to its start and end dates.
+- I would implement it using Typescript.
+- I would create a better UX.
+
+### How I would test this if I had more time
+
+- I would test the rendering flow of each item on the timeline.
+- I would create tests to validate the listing by simulating a request to an API.
