@@ -44,7 +44,7 @@ npm run test
 
 - I would use a library to render each item according to its start and end dates.
 - I would implement it using Typescript.
-- I would create a better UX.
+- I would create a better UX, including more information of items.
 
 ### How I would test this if I had more time
 
