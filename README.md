@@ -2,6 +2,8 @@
 
 A web application for visualizing and managing timelines.
 
+<img width="1509" height="766" alt="Captura de Tela 2025-08-14 às 21 04 36" src="https://github.com/user-attachments/assets/231ffab2-3b6e-4bd1-b019-92164bc25fa0" />
+
 ## Getting Started
 
 ### Prerequisites
